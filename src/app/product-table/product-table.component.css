@@ -9,8 +9,8 @@
 
 body {
   font-family: Arial;
-  margin: 0 auto; /* Сайт центр */
-  max-width: 500px; /* Максимальная ширина*/
+  margin: 0 auto;
+  max-width: 500px;
   padding: 10px;
 }
 
@@ -27,7 +27,7 @@ body {
   color: orange;
 }
 
-/* Три колонки макет */
+
 .side {
   float: left;
   width: 15%;
