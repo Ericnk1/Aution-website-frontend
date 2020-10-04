@@ -1,0 +1,61 @@
+/*.product-image {*/
+/*  width: 200px;*/
+/*  height: 200px;*/
+/*}*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  margin: 0 auto; /* Сайт центр */
+  max-width: 500px; /* Максимальная ширина*/
+  padding: 10px;
+}
+
+.heading {
+  font-size: 15px;
+  margin-right: 0px;
+}
+
+.fa {
+  font-size: 15px;
+}
+
+.checked {
+  color: orange;
+}
+
+/* Три колонки макет */
+.side {
+  float: left;
+  width: 15%;
+  margin-top: 10px;
+}
+
+.middle {
+  float: left;
+  width: 70%;
+  margin-top: 10px;
+}
+
+
+
+.content {
+  padding: 16px;
+}
+
+.mat-elevation-z4 {
+  width: 200px;
+}
+
+.product-table-button{
+  outline: none;
+  border: none;
+  cursor: pointer;
+
+}
+
+
+
